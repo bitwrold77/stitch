@@ -24,105 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/controller/LoginController.java">
+      <file leaf-file-name="AppConfigServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stitch-config-server/src/main/java/cn/itsource/stitch/config/AppConfigServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppPlat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/AppPlat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AjaxResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/src/main/java/cn/itsource/stitch/util/AjaxResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DocumentationConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/DocumentationConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/SwaggerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/config/Swagger2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppZuul.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/AppZuul.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="93">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -148,15 +54,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/stitch-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/stitch-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/stitch-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/AppZuul.java" />
-        <option value="$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/stitch-eureka/src/main/java/cn/itsource/stitch/AppEurekaServer.java" />
         <option value="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/src/main/java/AjaxResult.java" />
         <option value="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/src/main/java/cn/itsource/stitch/util/PageList.java" />
         <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-interface/src/main/java/cn/itsource/stitch/domain/User.java" />
-        <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/pom.xml" />
         <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/AppPlat.java" />
         <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/SwaggerConfig.java" />
@@ -164,6 +67,13 @@
         <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/DocumentationConfig.java" />
         <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/stitch-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/stitch-config-server/src/main/java/cn/itsource/stitch/config/AppConfigServer.java" />
+        <option value="$PROJECT_DIR$/stitch-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/stitch-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/pom.xml" />
       </list>
     </option>
   </component>
@@ -197,10 +107,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="152" />
-    <option name="y" value="87" />
+    <option name="x" value="270" />
+    <option name="y" value="3" />
     <option name="width" value="1369" />
-    <option name="height" value="838" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -217,8 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -230,6 +138,49 @@
             <path>
               <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="stitch-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
               <item name="stitch-eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,46 +230,6 @@
               <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
               <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
               <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -335,47 +246,6 @@
               <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -403,33 +273,6 @@
               <item name="stitch-zuul" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stitch-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="stitch-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stitch-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -443,15 +286,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aigou-parent" />
+    <property name="last_opened_file_path" value="E:/---------------------Java20190220/Java20190220/2019-07-27-B2C商城(爱购网)-day02/code/aigou-parent" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -478,9 +323,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.14926988" />
+    <option name="contentProportion" value="0.22386895" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServer-1000">
+  <component name="RunManager" selected="Spring Boot.config-8761">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -553,6 +398,14 @@
       <module name="stitch-zuul" />
       <envs />
     </configuration>
+    <configuration name="config-8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.stitch.config.AppConfigServer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_111\jre" />
+      <module name="stitch-config-server" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -586,10 +439,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.PlatServicer-2001" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.Zuul-1299" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.EurekaServer-1000" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.config-8761" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -609,19 +463,21 @@
       <workItem from="1564142235842" duration="356000" />
       <workItem from="1564145891575" duration="5311000" />
       <workItem from="1564189164591" duration="38000" />
+      <workItem from="1564276270630" duration="5559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9796000" />
+    <option name="totallyTimeSpent" value="15355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="87" width="1369" height="838" extended-state="1" />
+    <frame x="270" y="3" width="1369" height="848" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4992658" sideWeight="0.5026738" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4713522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -631,13 +487,14 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39710146" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49926794" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5446559" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.62481964" sideWeight="0.4973262" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54445666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21390374" sideWeight="0.4924406" order="0" side_tool="false" content_ui="combo" />
@@ -650,7 +507,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -668,23 +524,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -708,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="19" />
@@ -720,9 +560,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
@@ -852,7 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
@@ -880,13 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -919,29 +750,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-eureka/src/main/java/cn/itsource/stitch/AppEurekaServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#408#409#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,14 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-interface/src/main/java/cn/itsource/stitch/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -986,10 +790,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/as.java" />
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/AppZuul.java">
+    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/AppPlat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1002,14 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/DocumentationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -1018,55 +824,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/AppPlat.java">
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/java/cn/itsource/stitch/zuul/AppZuul.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/config/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="-108">
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stitch-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-eureka/src/main/java/cn/itsource/stitch/AppEurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-config-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="19" />
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stitch-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="47" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="557">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/stitch-config-server/src/main/java/cn/itsource/stitch/config/AppConfigServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/src/main/java/cn/itsource/stitch/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="93">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
