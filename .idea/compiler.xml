@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stitch-basic-util" />
+        <module name="stitch-config-server" />
+        <module name="stitch-eureka" />
+        <module name="stitch-plat-interface" />
+        <module name="stitch-plat-service" />
+        <module name="stitch-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="stitch-basic-parent" target="8" />
+      <module name="stitch-basic-util" target="8" />
+      <module name="stitch-config-server" target="8" />
+      <module name="stitch-eureka" target="8" />
+      <module name="stitch-parent" target="8" />
+      <module name="stitch-plat-interface" target="8" />
+      <module name="stitch-plat-parent" target="8" />
+      <module name="stitch-plat-service" target="8" />
+      <module name="stitch-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

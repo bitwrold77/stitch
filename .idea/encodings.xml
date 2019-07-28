@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
