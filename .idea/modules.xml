@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/stitch-basic-generator.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/stitch-basic-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-parent.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/stitch-basic-util.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/stitch-basic-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-config-server/stitch-config-server.iml" filepath="$PROJECT_DIR$/stitch-config-server/stitch-config-server.iml" />
@@ -10,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-interface/stitch-plat-interface.iml" filepath="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-interface/stitch-plat-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-parent.iml" filepath="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/stitch-plat-service.iml" filepath="$PROJECT_DIR$/stitch-plat-parent/stitch-plat-service/stitch-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-product-parent/stitch-product-interface/stitch-product-interface.iml" filepath="$PROJECT_DIR$/stitch-product-parent/stitch-product-interface/stitch-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-product-parent/stitch-product-parent.iml" filepath="$PROJECT_DIR$/stitch-product-parent/stitch-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-product-parent/stitch-product-service/stitch-product-service.iml" filepath="$PROJECT_DIR$/stitch-product-parent/stitch-product-service/stitch-product-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-zuul/stitch-zuul.iml" filepath="$PROJECT_DIR$/stitch-zuul/stitch-zuul.iml" />
     </modules>
   </component>

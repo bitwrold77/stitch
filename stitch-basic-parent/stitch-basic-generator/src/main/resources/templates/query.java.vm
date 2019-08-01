@@ -1,0 +1,10 @@
+package cn.itsource.stitch.query;
+import cn.itsource.stitch.util.BaseQuery;
+
+/**
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+public class ${table.entityName}Query extends BaseQuery{
+}

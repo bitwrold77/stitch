@@ -14,7 +14,7 @@ public class LoginController {
         String password = user.getPassword();
         //假登录
         if ("admin".equals(username) && "admin".equals(password)) {
-            return AjaxResult.me().setSuccess(true).setMessage("登录成功!");
+            return AjaxResult.me().setSuccess(true).setMessage("登录成功!").setRestObj(user);
         }
         return AjaxResult.me().setSuccess(false).setMessage("登录失败!");
     }

@@ -15,6 +15,7 @@
         <module>stitch-zuul</module>
         <module>stitch-basic-parent</module>
         <module>stitch-plat-parent</module>
+        <module>stitch-product-parent</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

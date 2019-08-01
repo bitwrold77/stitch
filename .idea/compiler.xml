@@ -6,15 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="stitch-basic-generator" />
         <module name="stitch-basic-util" />
         <module name="stitch-config-server" />
         <module name="stitch-eureka" />
         <module name="stitch-plat-interface" />
         <module name="stitch-plat-service" />
+        <module name="stitch-product-interface" />
+        <module name="stitch-product-service" />
         <module name="stitch-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="stitch-basic-generator" target="8" />
       <module name="stitch-basic-parent" target="8" />
       <module name="stitch-basic-util" target="8" />
       <module name="stitch-config-server" target="8" />
@@ -23,6 +27,9 @@
       <module name="stitch-plat-interface" target="8" />
       <module name="stitch-plat-parent" target="8" />
       <module name="stitch-plat-service" target="8" />
+      <module name="stitch-product-interface" target="8" />
+      <module name="stitch-product-parent" target="8" />
+      <module name="stitch-product-service" target="8" />
       <module name="stitch-zuul" target="8" />
     </bytecodeTargetLevel>
   </component>

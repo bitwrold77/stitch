@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>stitch-basic-parent</artifactId>
+    <artifactId>stitch-product-parent</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>stitch-basic-util</module>
-        <module>stitch-basic-generator</module>
+        <module>stitch-product-interface</module>
+        <module>stitch-product-service</module>
     </modules>
 
 
