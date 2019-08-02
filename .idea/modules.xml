@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/stitch-basic-generator.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/stitch-basic-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-parent.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/stitch-basic-util.iml" filepath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/stitch-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-common-parent/stitch-common-interface/stitch-common-interface.iml" filepath="$PROJECT_DIR$/stitch-common-parent/stitch-common-interface/stitch-common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-common-parent/stitch-common-parent.iml" filepath="$PROJECT_DIR$/stitch-common-parent/stitch-common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stitch-common-parent/stitch-common-service/stitch-common-service.iml" filepath="$PROJECT_DIR$/stitch-common-parent/stitch-common-service/stitch-common-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-config-server/stitch-config-server.iml" filepath="$PROJECT_DIR$/stitch-config-server/stitch-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-eureka/stitch-eureka.iml" filepath="$PROJECT_DIR$/stitch-eureka/stitch-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/stitch-parent.iml" filepath="$PROJECT_DIR$/stitch-parent.iml" />

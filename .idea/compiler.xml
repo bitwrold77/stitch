@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="stitch-basic-generator" />
         <module name="stitch-basic-util" />
+        <module name="stitch-common-interface" />
+        <module name="stitch-common-service" />
         <module name="stitch-config-server" />
         <module name="stitch-eureka" />
         <module name="stitch-plat-interface" />
@@ -21,6 +23,9 @@
       <module name="stitch-basic-generator" target="8" />
       <module name="stitch-basic-parent" target="8" />
       <module name="stitch-basic-util" target="8" />
+      <module name="stitch-common-interface" target="8" />
+      <module name="stitch-common-parent" target="8" />
+      <module name="stitch-common-service" target="8" />
       <module name="stitch-config-server" target="8" />
       <module name="stitch-eureka" target="8" />
       <module name="stitch-parent" target="8" />

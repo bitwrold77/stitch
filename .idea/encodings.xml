@@ -5,6 +5,9 @@
     <file url="file://$PROJECT_DIR$/stitch-basic-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-common-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-common-parent/stitch-common-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stitch-common-parent/stitch-common-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-plat-parent" charset="UTF-8" />
@@ -14,7 +17,6 @@
     <file url="file://$PROJECT_DIR$/stitch-product-parent/stitch-product-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-product-parent/stitch-product-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stitch-zuul" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/stitchproductparent" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
