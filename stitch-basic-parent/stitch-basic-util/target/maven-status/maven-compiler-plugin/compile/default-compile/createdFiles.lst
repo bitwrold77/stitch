@@ -4,11 +4,14 @@ cn\itsource\stitch\util\encrypt\MD5.class
 cn\itsource\stitch\util\StrUtils.class
 cn\itsource\stitch\util\PropertiesHelper.class
 cn\itsource\stitch\util\PageList.class
+cn\itsource\stitch\util\RedisUtils.class
 cn\itsource\stitch\util\ProductStateConsts.class
 cn\itsource\stitch\util\BitStatesUtils.class
 cn\itsource\stitch\util\GlobalSetting.class
 cn\itsource\stitch\util\CodeGenerateUtils.class
 cn\itsource\stitch\util\ClassUtils$1.class
+cn\itsource\stitch\util\VelocityUtils.class
+cn\itsource\stitch\util\FastDfsApiOpr.class
 cn\itsource\stitch\util\AjaxResult.class
 cn\itsource\stitch\util\LetterUtil.class
 cn\itsource\stitch\util\BaseQuery.class

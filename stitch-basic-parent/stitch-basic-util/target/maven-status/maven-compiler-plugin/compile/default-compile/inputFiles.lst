@@ -1,6 +1,8 @@
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\CodeGenerateUtils.java
+E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\FastDfsApiOpr.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\ClassUtils.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\AjaxResult.java
+E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\RedisUtils.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\BitStatesUtils.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\PageList.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\encrypt\MD5.java
@@ -11,3 +13,4 @@ E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\i
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\encrypt\DES.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\ProductStateConsts.java
 E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\StrUtils.java
+E:\GITHub\stitch-parent\stitch-basic-parent\stitch-basic-util\src\main\java\cn\itsource\stitch\util\VelocityUtils.java
