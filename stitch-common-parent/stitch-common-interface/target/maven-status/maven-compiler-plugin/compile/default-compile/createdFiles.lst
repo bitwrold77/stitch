@@ -1,0 +1,6 @@
+cn\itsource\stitch\client\StaticPageClient.class
+cn\itsource\stitch\client\RedisFallBackFactory$1.class
+cn\itsource\stitch\client\RedisFallBackFactory.class
+cn\itsource\stitch\client\StaticPageFallBackFactory.class
+cn\itsource\stitch\client\StaticPageFallBackFactory$1.class
+cn\itsource\stitch\client\RedisClient.class

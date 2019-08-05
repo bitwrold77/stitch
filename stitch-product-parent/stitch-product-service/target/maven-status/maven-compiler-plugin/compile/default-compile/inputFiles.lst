@@ -1,0 +1,15 @@
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\IBrandService.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\controller\BrandController.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\impl\BrandServiceImpl.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\mapper\ProductMapper.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\config\MybatisPlusConfig.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\impl\ProductServiceImpl.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\ProductApplication.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\mapper\ProductTypeMapper.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\IProductTypeService.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\controller\ProductTypeController.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\mapper\BrandMapper.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\impl\ProductTypeServiceImpl.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\controller\ProductController.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\service\IProductService.java
+E:\GITHub\stitch-parent\stitch-product-parent\stitch-product-service\src\main\java\cn\itsource\stitch\config\Swagger2.java

@@ -1,0 +1,15 @@
+cn\itsource\stitch\ProductApplication.class
+cn\itsource\stitch\controller\ProductTypeController.class
+cn\itsource\stitch\service\impl\BrandServiceImpl.class
+cn\itsource\stitch\service\impl\ProductServiceImpl.class
+cn\itsource\stitch\controller\ProductController.class
+cn\itsource\stitch\mapper\BrandMapper.class
+cn\itsource\stitch\mapper\ProductTypeMapper.class
+cn\itsource\stitch\service\IProductTypeService.class
+cn\itsource\stitch\config\Swagger2.class
+cn\itsource\stitch\service\IProductService.class
+cn\itsource\stitch\mapper\ProductMapper.class
+cn\itsource\stitch\service\IBrandService.class
+cn\itsource\stitch\controller\BrandController.class
+cn\itsource\stitch\service\impl\ProductTypeServiceImpl.class
+cn\itsource\stitch\config\MybatisPlusConfig.class

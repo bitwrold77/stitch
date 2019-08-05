@@ -1,0 +1,6 @@
+cn\itsource\stitch\domain\ProductType.class
+cn\itsource\stitch\query\ProductTypeQuery.class
+cn\itsource\stitch\query\BrandQuery.class
+cn\itsource\stitch\domain\Product.class
+cn\itsource\stitch\domain\Brand.class
+cn\itsource\stitch\query\ProductQuery.class
