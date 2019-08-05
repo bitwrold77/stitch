@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28628a1c-271a-46e0-935f-93f75a1b4b9d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/stitch-common-parent/stitch-common-service/src/main/java/cn/itsource/stitch/Appcommon.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/stitch-common-parent/stitch-common-service/src/main/java/cn/itsource/stitch/controller/RedisController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/stitch-common-parent/stitch-common-service/src/main/java/cn/itsource/stitch/controller/StaticPageController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/stitch-common-parent/stitch-common-service/src/main/resources/bootstrap.yml" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/src/main/java/cn/itsource/stitch/CodeGenerator.java" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-generator/src/main/java/cn/itsource/stitch/CodeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/pom.xml" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/src/main/java/cn/itsource/stitch/util/AjaxResult.java" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/src/main/java/cn/itsource/stitch/util/AjaxResult.java" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/classes/cn/itsource/stitch/util/AjaxResult.class" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/classes/cn/itsource/stitch/util/AjaxResult.class" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/stitch-basic-parent/stitch-basic-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/stitch-product-parent/stitch-product-interface/pom.xml" afterPath="$PROJECT_DIR$/stitch-product-parent/stitch-product-interface/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/stitch-product-parent/stitch-product-service/pom.xml" afterPath="$PROJECT_DIR$/stitch-product-parent/stitch-product-service/pom.xml" />
-    </list>
+    <list default="true" id="28628a1c-271a-46e0-935f-93f75a1b4b9d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/stitch-eureka/target/" />
@@ -755,7 +742,7 @@
       <workItem from="1564803371894" duration="246000" />
       <workItem from="1564803804245" duration="9873000" />
       <workItem from="1564831129388" duration="1707000" />
-      <workItem from="1564930451928" duration="1412000" />
+      <workItem from="1564930451928" duration="1653000" />
     </task>
     <task id="LOCAL-00001" summary="工具类">
       <created>1564556829802</created>
@@ -786,7 +773,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57137000" />
+    <option name="totallyTimeSpent" value="57378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="78" width="1710" height="918" extended-state="0" />
